@@ -388,6 +388,7 @@ header {
 
   .kwport {
     padding-bottom: 500px;
+    padding-bottom: 2000px;
   }
   
   .tigergame, .abstract, .catwalk, .japan, .tropical, .puppy {
@@ -409,6 +410,7 @@ header {
   .kwport {
     width: 560px;
     margin-top: 60px;
+    padding-bottom: 2000px;
   }
 
 
